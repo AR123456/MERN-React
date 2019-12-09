@@ -50,6 +50,7 @@ export const StyledHatch = styled.div`
     }
 
     &.open {
+      background: center / cover url(${hatchBackdrop});
       z-index: 2;
       transform: rotateY(0deg);
     }
