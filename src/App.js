@@ -4,11 +4,12 @@ import { createCalendar } from "./helpers";
 import Hatch from "./Hatch";
 function App() {
   const [hatches, setHatches] = useState(createCalendar());
+
   console.log(hatches);
   return (
     <>
       {hatches.map(hatch => (
-        <Hatch />
+        <Hatch key={hatch.id} hatchData={hatch} handleClick={handleFlipHatch} />
       ))}
     </>
   );
