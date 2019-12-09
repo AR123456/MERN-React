@@ -16,7 +16,7 @@ export const hatchArray = [
   {
     id: "hatch-1",
     nr: 1,
-    img: "./gif/1.gif",
+    img: "./img/1.jpg",
 
     gify: "./gif/1.gif",
     open: false
@@ -41,7 +41,7 @@ export const hatchArray = [
     id: "hatch-4",
     nr: 4,
     img: "./img/4.jpg",
-    gify: "https://media3.giphy.com/media/xUOxeXhZlq0eVhHJde/200.gif",
+    gify: "https://media1.giphy.com/media/3o6ZtjqdcQfuno2WPK/200.gif",
 
     open: false
   },
@@ -73,7 +73,7 @@ export const hatchArray = [
     id: "hatch-8",
     nr: 8,
     img: "./img/8.jpg",
-    gify: "https://media3.giphy.com/media/CfCJwsAfjopRS/200.gif",
+    gify: "https://media2.giphy.com/media/gL96l3xNovDwLS2QV2/200.gif",
 
     open: false
   },
@@ -81,7 +81,7 @@ export const hatchArray = [
     id: "hatch-9",
     nr: 9,
     img: "./img/9.jpg",
-    gify: "https://media3.giphy.com/media/WNcbaCHN0mxsdJ2YXm/200.gif",
+    gify: "https://media3.giphy.com/media/5FyoAQNXY6XDO/200.gif",
 
     open: false
   },
@@ -89,7 +89,7 @@ export const hatchArray = [
     id: "hatch-10",
     nr: 10,
     img: "./img/10.jpg",
-    gify: "https://media3.giphy.com/media/lBGAoXsXxb0ty/200.gif",
+    gify: "https://media1.giphy.com/media/vYUWWJty4qIdW/200.gif",
 
     open: false
   },
@@ -113,7 +113,7 @@ export const hatchArray = [
     id: "hatch-13",
     nr: 13,
     img: "./img/13.jpg",
-    gify: ".https://media1.giphy.com/media/h5dc7nZVelw2I/200.gif",
+    gify: "https://media1.giphy.com/media/h5dc7nZVelw2I/200.gif",
 
     open: false
   },
@@ -137,7 +137,7 @@ export const hatchArray = [
     id: "hatch-16",
     nr: 16,
     img: "./img/16.jpg",
-    gify: "https://media1.giphy.com/media/vYUWWJty4qIdW/200.gif",
+    gify: "https://media3.giphy.com/media/lBGAoXsXxb0ty/200.gif",
 
     open: false
   },
@@ -161,7 +161,7 @@ export const hatchArray = [
     id: "hatch-19",
     nr: 19,
     img: "./img/19.jpg",
-    gify: "https://media1.giphy.com/media/3o6ZtjqdcQfuno2WPK/200.gif",
+    gify: "https://media2.giphy.com/media/bxJRigovhEPhC/200.gif",
 
     open: false
   },
@@ -169,7 +169,7 @@ export const hatchArray = [
     id: "hatch-20",
     nr: 20,
     img: "./img/20.jpg",
-    gify: "https://media1.giphy.com/media/xHQiS5MQKyBvq/200.gif",
+    gify: "https://media0.giphy.com/media/11EEXw1EIEoHaE/200.gif",
 
     open: false
   },
