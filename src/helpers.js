@@ -25,7 +25,7 @@ export const hatchArray = [
     id: "hatch-2",
     nr: 2,
     img: "./img/2.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/HEVQw704PTR72/200.gif",
 
     open: false
   },
@@ -33,7 +33,7 @@ export const hatchArray = [
     id: "hatch-3",
     nr: 3,
     img: "./img/3.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/xUOxeXhZlq0eVhHJde/200.gif",
 
     open: false
   },
@@ -41,7 +41,7 @@ export const hatchArray = [
     id: "hatch-4",
     nr: 4,
     img: "./img/4.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/xUOxeXhZlq0eVhHJde/200.gif",
 
     open: false
   },
@@ -49,7 +49,7 @@ export const hatchArray = [
     id: "hatch-5",
     nr: 5,
     img: "./img/5.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media2.giphy.com/media/12RNHxCAQ0dYFa/200.gif",
 
     open: false
   },
@@ -57,7 +57,7 @@ export const hatchArray = [
     id: "hatch-6",
     nr: 6,
     img: "./img/6.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media1.giphy.com/media/W5D9oEAJvOHaE/200.gif",
 
     open: false
   },
@@ -65,7 +65,7 @@ export const hatchArray = [
     id: "hatch-7",
     nr: 7,
     img: "./img/7.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/l0MYAetEyGvYiqZ20/200.gif",
 
     open: false
   },
@@ -73,7 +73,7 @@ export const hatchArray = [
     id: "hatch-8",
     nr: 8,
     img: "./img/8.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/CfCJwsAfjopRS/200.gif",
 
     open: false
   },
@@ -81,7 +81,7 @@ export const hatchArray = [
     id: "hatch-9",
     nr: 9,
     img: "./img/9.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/WNcbaCHN0mxsdJ2YXm/200.gif",
 
     open: false
   },
@@ -89,7 +89,7 @@ export const hatchArray = [
     id: "hatch-10",
     nr: 10,
     img: "./img/10.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/lBGAoXsXxb0ty/200.gif",
 
     open: false
   },
@@ -97,7 +97,7 @@ export const hatchArray = [
     id: "hatch-11",
     nr: 11,
     img: "./img/11.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/11BEQyXROgnLTG/200.gif",
 
     open: false
   },
@@ -105,7 +105,7 @@ export const hatchArray = [
     id: "hatch-12",
     nr: 12,
     img: "./img/12.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/8GbmBOTB9Ely0/200.gif",
 
     open: false
   },
@@ -113,7 +113,7 @@ export const hatchArray = [
     id: "hatch-13",
     nr: 13,
     img: "./img/13.jpg",
-    gify: "./gif/1.gif",
+    gify: ".https://media1.giphy.com/media/h5dc7nZVelw2I/200.gif",
 
     open: false
   },
@@ -121,7 +121,7 @@ export const hatchArray = [
     id: "hatch-14",
     nr: 14,
     img: "./img/14.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/3o8doXnqbNvG8h6bJe/200.gif",
 
     open: false
   },
@@ -129,7 +129,7 @@ export const hatchArray = [
     id: "hatch-15",
     nr: 15,
     img: "./img/15.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/3oEduL72SXHklZ4eWI/200.gif",
 
     open: false
   },
@@ -137,7 +137,7 @@ export const hatchArray = [
     id: "hatch-16",
     nr: 16,
     img: "./img/16.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media1.giphy.com/media/vYUWWJty4qIdW/200.gif",
 
     open: false
   },
@@ -145,7 +145,7 @@ export const hatchArray = [
     id: "hatch-17",
     nr: 17,
     img: "./img/17.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/3oriO6qJiXajN0TyDu/200.gif",
 
     open: false
   },
@@ -153,7 +153,7 @@ export const hatchArray = [
     id: "hatch-18",
     nr: 18,
     img: "./img/18.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/3o6fJ1UDfEBc9BcPss/200.gif",
 
     open: false
   },
@@ -161,7 +161,7 @@ export const hatchArray = [
     id: "hatch-19",
     nr: 19,
     img: "./img/19.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media1.giphy.com/media/3o6ZtjqdcQfuno2WPK/200.gif",
 
     open: false
   },
@@ -169,7 +169,7 @@ export const hatchArray = [
     id: "hatch-20",
     nr: 20,
     img: "./img/20.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media1.giphy.com/media/xHQiS5MQKyBvq/200.gif",
 
     open: false
   },
@@ -177,7 +177,7 @@ export const hatchArray = [
     id: "hatch-21",
     nr: 21,
     img: "./img/21.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media3.giphy.com/media/CfCJwsAfjopRS/200.gif",
 
     open: false
   },
@@ -185,7 +185,7 @@ export const hatchArray = [
     id: "hatch-22",
     nr: 22,
     img: "./img/22.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media1.giphy.com/media/KemCzIB3KHemc/200.gif",
 
     open: false
   },
@@ -193,7 +193,7 @@ export const hatchArray = [
     id: "hatch-23",
     nr: 23,
     img: "./img/23.jpg",
-    gify: "./gif/1.gif",
+    gify: "https://media0.giphy.com/media/gNke2UrUTopOg/200.gif",
 
     open: false
   },
@@ -201,7 +201,9 @@ export const hatchArray = [
     id: "hatch-24",
     nr: 24,
     img: "./img/24.jpg",
-    gify: "./gif/1.gif",
+    gify: " https://media2.giphy.com/media/P2n7d7IhgCPx6/200.gif",
+
+    // https://media2.giphy.com/media/P2n7d7IhgCPx6/200.gif
 
     open: false
   }
