@@ -12,6 +12,17 @@ body {
 `;
 function App() {
   const [hatches, setHatches] = useState(createCalendar());
+  // setting calendar to local storaage
+  useEffect(() => {
+    const calendar = localStorage.calendar
+      ? JSON.parse(localStorage.calendar)
+      : createCalendar();
+    setHatches(calendar);
+  }, []);
+  useEffect(() => {
+    hatches.length && localStorage.setItem("calendar", JSON.stringify(hatches));
+  }, [hatches]);
+
   const handleFlipHatch = id => {
     const updatedHatches = hatches.map(hatch =>
       hatch.id === id ? { ...hatch, open: !hatch.open } : hatch
